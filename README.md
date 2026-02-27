@@ -1,5 +1,6 @@
 # SandDreams
-Public Release of my game SandDreams (title WIP)
+Public Release of my game SandDreams (title WIP)  
+View lateset release here: [SANDDREAMS](https://github.com/madfrozen/SandDreams/releases)
 
 # Basic Controls
 - WASD for driving
